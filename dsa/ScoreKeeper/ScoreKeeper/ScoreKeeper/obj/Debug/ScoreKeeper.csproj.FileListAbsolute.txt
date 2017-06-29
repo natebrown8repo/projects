@@ -1,0 +1,12 @@
+D:\git\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\bin\Debug\ScoreKeeper.exe.config
+D:\git\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\bin\Debug\ScoreKeeper.exe
+D:\git\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\bin\Debug\ScoreKeeper.pdb
+D:\git\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\obj\Debug\ScoreKeeper.csprojResolveAssemblyReference.cache
+D:\git\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\obj\Debug\ScoreKeeper.exe
+D:\git\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\obj\Debug\ScoreKeeper.pdb
+D:\repo\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\bin\Debug\ScoreKeeper.exe.config
+D:\repo\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\bin\Debug\ScoreKeeper.exe
+D:\repo\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\bin\Debug\ScoreKeeper.pdb
+D:\repo\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\obj\Debug\ScoreKeeper.csprojResolveAssemblyReference.cache
+D:\repo\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\obj\Debug\ScoreKeeper.exe
+D:\repo\dsa\ScoreKeeper\ScoreKeeper\ScoreKeeper\obj\Debug\ScoreKeeper.pdb

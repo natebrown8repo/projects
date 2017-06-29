@@ -1,0 +1,5 @@
+D:\git\dsa\FoodOrder\FoodOrder\FoodOrder\bin\Debug\FoodOrder.exe.config
+D:\git\dsa\FoodOrder\FoodOrder\FoodOrder\bin\Debug\FoodOrder.exe
+D:\git\dsa\FoodOrder\FoodOrder\FoodOrder\bin\Debug\FoodOrder.pdb
+D:\git\dsa\FoodOrder\FoodOrder\FoodOrder\obj\Debug\FoodOrder.exe
+D:\git\dsa\FoodOrder\FoodOrder\FoodOrder\obj\Debug\FoodOrder.pdb
